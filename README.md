@@ -30,18 +30,21 @@ Your intended user receives your finished product during the deployment step. De
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall Methodology
+
+1. Waterfall Methodology
 Waterfall Methodology This highly structured approach is best suited for projects with well-defined requirements and minimal expected changes, such as large-scale infrastructure projects like building an enterprise resource planning (ERP) system, where all requirements must be clearly defined upfront. The Waterfall model is a sequential and linear process that requires each phase—such as requirements gathering, design, implementation, testing, deployment, and maintenance—to be finished before going on to the next.
-Agile Methodology 
+2. Agile Methodology 
 Agile Methodology is a flexible and iterative approach that prioritizes collaboration, continuous feedback, and the quick delivery of small product increments. Agile teams operate in short cycles, known as sprints, where they frequently reevaluate priorities and make necessary adjustments. Agile allows for flexibility, which makes it appropriate for projects with changing requirements. For instance, Agile is perfect for developing a startup's mobile app, where customer feedback is essential and the product may require frequent changes.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 A software developer does the actual job and codes an application. 
 The job of a quality assurance engineer is to verify whether an application meets the requirements—both functional and non-functional.
 A project manager is responsible for distributing tasks across team members, planning work activities, and updating project status.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) are tools that offer all features that may be necessary for software development. For example, VS code IDE which is used mostly in web development for front-end and back-end parts of software in a software development project
 Version Control Systems (VCS) are used to monitor and record every change made to the software. eg. Git to monitor changes that occur in the software development project for instance a code.
 
